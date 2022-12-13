@@ -103,7 +103,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form1"
-        Me.Text = "vbpMod12_AverageLength"
+        Me.Text = "vbpMod12_FillTheBlank."
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
